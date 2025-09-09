@@ -1,0 +1,301 @@
+CrimeID,CrimeType,Date,Location,SuspectID,OfficerID,Description,Status,Time,CaseNumber
+1,Kidnapping,2023-07-18,Brownview,10,1,But science but message.,Resolved,12:05:42,6314
+2,Arson,2020-10-11,New Denisebury,107,102,Record quickly imagine close receive.,Open,08:07:50,5927
+3,Homicide,2021-11-27,Morganview,45,230,Note one rich positive possible three practice.,Under Investigation,16:39:08,2491
+4,Assault,2023-06-06,East Hannahborough,221,162,Natural population whom.,Closed,19:15:27,4249
+5,Robbery,2023-03-03,South Benjaminstad,84,283,Be among account space early week.,Open,22:59:42,3028
+6,Drug Offense,2021-11-01,West Michael,24,193,Change expert couple science. Compare find bill.,Open,21:49:37,4636
+7,Theft,2024-05-22,North Jonathantown,9,264,Oil cold information finish indicate.,Resolved,04:18:31,4374
+8,Homicide,2021-08-25,Danieltown,97,152,Show business shake.,Closed,04:34:16,2855
+9,Fraud,2023-03-09,West Christinemouth,4,130,Know structure ability eye check instead.,Closed,00:40:29,7330
+10,Kidnapping,2021-10-04,New Deborahmouth,72,53,Born consider which affect down similar house.,Pending,07:24:53,8508
+11,Cyber Crime,2022-10-16,Lake Melissa,221,153,Media job right opportunity sell put policy.,Pending,23:19:06,3974
+12,Assault,2021-05-04,Lake Jonathan,224,42,Risk sort message success economy nor drop.,Pending,03:10:12,7401
+13,Arson,2024-06-05,Douglasfurt,55,162,More visit debate travel culture serious.,Under Investigation,16:30:45,3561
+14,Robbery,2022-10-25,North Justin,114,34,Yeah place interesting officer can operation.,Resolved,12:03:54,1125
+15,Burglary,2023-12-14,Fernandezbury,163,172,Describe trip even soon parent.,Pending,18:05:26,3325
+16,Theft,2023-09-01,West Thomasfurt,265,255,Whom woman fine open gun. Return hot find.,Under Investigation,22:15:15,7278
+17,Drug Offense,2021-02-17,East Charles,110,119,Reduce charge like them.,Resolved,14:11:32,3021
+18,Assault,2024-10-31,Howardtown,117,235,Party something organization stuff serious man.,Closed,04:13:45,4609
+19,Theft,2024-03-05,Lake Kim,33,203,Nearly physical boy everyone education.,Open,09:29:32,5059
+20,Cyber Crime,2021-03-06,East Lukeborough,167,26,Subject tend plan stage cold long.,Resolved,16:51:21,2432
+21,Theft,2024-01-27,Lukefurt,96,133,Tell he international adult.,Resolved,23:50:12,1019
+22,Drug Offense,2024-10-31,Randallville,94,151,Attention fall ok others situation.,Open,10:17:41,1399
+23,Fraud,2025-03-30,East Christopher,242,145,Decide most science commercial.,Open,19:20:51,2833
+24,Theft,2024-04-02,Stevenmouth,134,65,Society suddenly above water me top how.,Open,02:03:19,8924
+25,Kidnapping,2024-06-18,Hectorborough,218,127,Third until role news bill.,Under Investigation,14:48:26,2955
+26,Burglary,2023-01-26,Guzmanchester,63,215,Home thank control stay. Should four instead.,Pending,10:11:29,3628
+27,Fraud,2022-01-24,Mitchellville,166,114,Personal back represent season many area.,Under Investigation,05:20:36,9869
+28,Burglary,2021-02-07,Penaside,22,17,Law let protect.,Closed,16:51:50,9448
+29,Burglary,2021-03-02,Port Shannonmouth,33,255,Send agent arm report article hope.,Pending,13:40:38,1585
+30,Homicide,2022-02-22,Pattonport,223,6,Whose back computer statement air.,Under Investigation,08:39:45,4760
+31,Arson,2020-11-08,North Danielleton,238,281,Base law manage car pretty available remain.,Under Investigation,06:12:44,3963
+32,Theft,2021-05-20,Lake Alexander,107,244,Natural control woman notice reach water.,Resolved,19:36:35,1589
+33,Assault,2022-05-15,New Sarashire,243,292,Character training single staff term.,Pending,10:53:10,1695
+34,Assault,2025-01-19,Harrellview,258,96,Box special development difference computer.,Pending,10:23:58,9921
+35,Assault,2022-12-29,Ambermouth,149,36,Friend open land issue produce guy.,Under Investigation,16:51:20,2076
+36,Homicide,2022-04-28,North Benjamin,2,180,Draw his place firm house wall win beat.,Under Investigation,23:48:54,5366
+37,Kidnapping,2020-10-12,Monicastad,217,272,Tough glass them strategy wall.,Under Investigation,22:57:36,7178
+38,Theft,2020-09-16,New Tonyhaven,275,4,Provide through last.,Under Investigation,06:52:37,5873
+39,Kidnapping,2020-06-01,Lake Kelly,134,220,Right training series oil.,Open,06:50:30,8291
+40,Cyber Crime,2023-04-16,South Albert,93,139,Team few get design stuff music.,Under Investigation,14:04:31,7454
+41,Robbery,2024-12-02,New Samuelmouth,83,78,Successful mention lead top of serious campaign.,Closed,12:55:15,9318
+42,Kidnapping,2021-03-05,East William,233,97,Research executive standard stop.,Resolved,20:19:14,5706
+43,Fraud,2023-02-09,Port Pamela,293,31,Hour popular shoulder.,Resolved,19:01:05,9675
+44,Cyber Crime,2024-09-03,Scottburgh,249,238,Water year light safe.,Closed,12:22:46,1782
+45,Assault,2023-04-30,New Jerome,62,34,Wife student newspaper coach.,Under Investigation,17:56:04,8037
+46,Fraud,2024-04-13,Rossport,163,10,Reality hit region money political.,Open,17:57:21,9246
+47,Assault,2023-04-28,Haileyberg,57,94,Official agency seem project weight try.,Resolved,12:14:19,9636
+48,Theft,2023-11-10,Lake Eduardoview,128,287,Subject college include exist sport can.,Pending,06:49:11,2666
+49,Theft,2023-02-15,Patriciaberg,101,61,Share offer somebody family. Either real cold.,Pending,12:09:19,1726
+50,Theft,2020-12-12,East Larryville,10,282,Herself alone draw brother.,Resolved,17:15:47,7524
+51,Fraud,2020-05-05,Port Andrew,292,140,Beat way condition already.,Pending,11:22:25,8630
+52,Arson,2022-06-08,East Elizabeth,12,97,Prepare base however capital wind material shake.,Open,12:23:15,1460
+53,Burglary,2023-10-20,Lake Courtney,136,279,Him product citizen author situation.,Open,05:24:45,5716
+54,Kidnapping,2021-09-09,Port Staceyfort,59,273,Grow fall receive summer past budget.,Pending,12:47:13,7986
+55,Homicide,2021-05-20,New Amystad,248,223,General off bag thing oil collection who.,Pending,19:01:20,8861
+56,Assault,2020-09-14,Chelseaport,89,94,Explain ever international PM happy cultural on.,Pending,17:48:18,8857
+57,Theft,2023-11-09,Kevinside,78,277,Trip just common step born action.,Resolved,22:33:42,4005
+58,Assault,2021-03-12,Josephport,162,294,Month book nor far clear action.,Open,05:37:03,3404
+59,Assault,2020-07-12,West Janetberg,119,250,Garden employee late view thing.,Pending,14:05:58,8440
+60,Arson,2020-05-23,South Tinastad,250,58,Tend more girl second local information.,Resolved,07:25:47,9016
+61,Theft,2025-02-24,North Matthewfurt,229,150,Growth street decide at these yes need.,Under Investigation,02:00:23,6484
+62,Cyber Crime,2023-10-02,Lishire,136,188,Majority modern field next get.,Resolved,06:45:41,1857
+63,Cyber Crime,2024-12-29,Melissaton,224,233,Someone have letter of language.,Under Investigation,16:44:52,1894
+64,Assault,2024-10-12,Johnton,14,58,Tonight general travel data agent animal.,Closed,15:11:31,6174
+65,Cyber Crime,2022-04-23,Brownshire,285,88,Bill deep knowledge baby course throw.,Open,17:30:06,1384
+66,Robbery,2025-01-21,North Jerry,269,100,Air director way system.,Resolved,10:44:27,7458
+67,Homicide,2021-02-07,Markport,34,200,Moment mother same study month most police.,Pending,07:13:49,3366
+68,Kidnapping,2024-04-11,Taylorstad,228,210,Decision level might list short.,Under Investigation,15:47:18,2678
+69,Theft,2023-05-29,North Joseph,101,229,Specific cultural two.,Open,19:25:19,4611
+70,Homicide,2024-10-24,Port Daniel,220,120,Understand until option situation yeah we hot.,Resolved,01:32:03,8421
+71,Kidnapping,2023-05-01,Lewisshire,29,191,Issue protect where which compare.,Under Investigation,21:05:20,3168
+72,Arson,2020-08-30,Jonesmouth,181,297,Position response money read year heart student.,Resolved,13:49:01,2787
+73,Homicide,2022-11-12,West Martinton,94,215,Back notice force garden.,Under Investigation,20:16:34,9263
+74,Fraud,2020-08-23,Smithland,148,185,Attack leg tough him.,Pending,07:09:32,8425
+75,Fraud,2024-12-13,Michaelton,117,144,My attorney need purpose read plan cost.,Open,01:06:21,1103
+76,Robbery,2020-08-25,South Ronaldberg,188,29,Last because cup tend work.,Closed,14:41:40,6152
+77,Drug Offense,2024-12-09,Johnstonborough,108,258,Attention yet building himself reality.,Under Investigation,09:50:14,1120
+78,Fraud,2023-02-25,North Norma,100,205,Participant and form live safe reflect.,Pending,03:07:48,4816
+79,Fraud,2024-12-10,North Kelly,56,155,Think human national final house.,Under Investigation,14:56:14,1252
+80,Robbery,2021-05-28,East Cory,112,143,She response kitchen remember.,Under Investigation,09:22:43,5319
+81,Theft,2024-08-25,Meghanfurt,188,260,Draw summer yard mission interview design report.,Closed,15:52:17,6265
+82,Fraud,2020-12-19,Melissamouth,32,143,With since write. Scene heart if light rest.,Open,08:07:17,8728
+83,Arson,2020-07-13,Port Juliehaven,10,192,Official air kind move.,Resolved,01:50:46,4673
+84,Robbery,2022-09-24,Masonstad,235,208,Article positive partner young claim station.,Closed,04:25:47,5521
+85,Drug Offense,2021-05-27,Lake Brianberg,113,161,Eight star growth various natural boy.,Open,20:14:34,6452
+86,Homicide,2024-09-05,North Teresaland,112,8,Total Democrat current bank kind.,Closed,01:40:38,1325
+87,Homicide,2022-12-10,Lake Tammyville,145,119,Serve although present.,Under Investigation,13:57:25,2618
+88,Theft,2020-06-01,Tylerberg,107,230,Miss visit just near situation raise land blue.,Pending,09:22:01,6614
+89,Arson,2021-10-22,South Markborough,191,298,Send continue stand democratic size long section.,Closed,05:44:11,5930
+90,Robbery,2025-02-05,Nancyview,16,17,Their list size bad partner grow.,Open,12:59:49,3811
+91,Burglary,2022-04-12,Gibsonfurt,270,222,Think sea happen college paper occur knowledge.,Closed,10:26:46,1375
+92,Fraud,2025-03-28,Johnville,228,272,Save itself teacher better hour certain.,Closed,11:14:15,7566
+93,Burglary,2020-05-31,South Bradleyview,222,54,Develop small point benefit.,Resolved,13:56:03,2802
+94,Homicide,2022-03-29,Peterfort,174,237,Wait right method a baby.,Open,19:13:42,6357
+95,Arson,2021-04-02,South Kara,178,161,Fight matter collection require police.,Pending,06:07:34,3159
+96,Homicide,2022-03-19,Smithberg,228,172,System include according. Believe unit its work.,Open,20:00:07,7839
+97,Theft,2020-06-19,Russellbury,224,80,Century positive student various sport.,Open,09:42:53,7591
+98,Drug Offense,2022-10-17,Pennyview,125,51,With shake majority.,Pending,03:40:43,8988
+99,Robbery,2023-08-03,West Marissa,65,67,Represent health herself.,Pending,07:54:53,5140
+100,Theft,2024-03-03,Douglasshire,229,221,Ready true total realize.,Pending,23:57:47,6278
+101,Burglary,2022-05-05,Emilybury,42,233,Even own space ball son build for.,Under Investigation,14:40:13,6504
+102,Robbery,2020-08-24,South Sara,255,99,Project his party.,Open,01:40:42,5791
+103,Arson,2021-04-22,North Troy,141,130,Wind specific trade speak. Than bag eight call.,Open,17:52:23,3779
+104,Burglary,2022-04-09,South Rebeccaborough,294,295,Brother avoid plan college shake represent.,Open,14:53:06,4754
+105,Homicide,2023-05-21,Jameschester,148,98,Color short main.,Open,20:16:02,4932
+106,Homicide,2021-12-31,Walkerport,272,97,Lot pass fast writer air.,Open,21:03:21,2038
+107,Assault,2024-08-11,Khanhaven,251,99,Action degree production necessary song.,Resolved,12:17:18,2338
+108,Arson,2021-10-04,North Patrickfurt,153,198,Stay top particular. Message economic wait.,Open,06:12:04,1744
+109,Cyber Crime,2024-06-08,Ashleychester,299,152,Wife many against answer.,Under Investigation,10:53:22,4360
+110,Drug Offense,2020-11-22,Schmidtton,8,128,Also its power work region defense receive.,Under Investigation,16:30:19,7794
+111,Homicide,2025-03-17,Adkinstown,24,97,Top past out election nation attorney success.,Open,04:48:19,9491
+112,Robbery,2025-01-01,West Justinview,34,296,Dark write think ago huge certainly both degree.,Pending,07:08:14,1178
+113,Drug Offense,2020-10-04,Karaport,182,66,Moment inside phone these happen husband usually.,Open,12:20:49,8808
+114,Robbery,2023-03-21,South Frederick,96,243,Save against early seat in business.,Under Investigation,20:31:43,5829
+115,Drug Offense,2020-11-14,Danielsburgh,63,215,Perform success subject.,Closed,07:27:00,3451
+116,Arson,2022-03-28,Cardenasville,28,198,Before area fill. Dream girl floor sort.,Under Investigation,21:58:24,3793
+117,Homicide,2021-02-11,Port Jonathanmouth,3,291,Value project unit election they song.,Pending,01:07:16,1504
+118,Robbery,2021-05-28,New Jessica,29,102,Issue while lot often scientist set woman.,Open,15:43:43,4938
+119,Kidnapping,2020-09-02,New David,15,183,Something partner million consider.,Closed,22:13:16,2660
+120,Homicide,2021-07-26,New Samanthaport,175,96,Thought Mr million boy.,Open,15:38:55,7093
+121,Arson,2024-05-04,Kimstad,294,126,Floor worker though might off.,Closed,09:48:31,4838
+122,Kidnapping,2022-05-05,Jimmyside,160,64,Office time indeed police behind effect.,Closed,18:59:03,7427
+123,Robbery,2022-12-03,West Timothyview,35,48,System item consumer history this.,Open,02:02:39,6578
+124,Kidnapping,2021-04-20,East Jacob,255,186,Pull grow soldier drop trial store tax.,Resolved,08:33:54,5561
+125,Theft,2023-02-14,Romeroton,20,108,Trouble player final mission rich.,Resolved,05:31:51,9273
+126,Robbery,2024-03-18,Port Anthony,51,249,Send a fear career.,Resolved,15:32:36,1670
+127,Assault,2022-01-05,New Marymouth,274,240,News simply card house minute stay.,Pending,12:48:54,4814
+128,Fraud,2021-09-09,Port Jamesmouth,120,29,May down sing itself.,Under Investigation,03:45:33,5742
+129,Robbery,2024-03-29,Brownfurt,41,67,Behavior others catch huge section play.,Closed,20:31:20,3834
+130,Burglary,2021-11-21,Michaeltown,65,39,Ask indeed bank now foot. Pay say check.,Resolved,22:18:47,2782
+131,Robbery,2022-12-04,Justinshire,71,277,Relate true go game choose factor here draw.,Open,12:13:10,3008
+132,Kidnapping,2024-12-16,Lake Scotttown,73,223,Forward remain go.,Under Investigation,11:24:18,2664
+133,Drug Offense,2022-02-27,South Seth,18,111,Idea listen suddenly official.,Pending,02:41:29,5663
+134,Drug Offense,2021-05-16,Lake Amyville,287,109,Ago single shake traditional understand until.,Pending,00:06:45,1431
+135,Fraud,2020-12-02,Villanuevashire,264,65,Discussion different hospital.,Open,16:23:14,7985
+136,Burglary,2024-12-03,Brownport,69,59,Letter right begin listen ahead key painting.,Closed,00:08:02,2716
+137,Cyber Crime,2022-03-06,Allenmouth,134,115,Shake may increase agree federal brother.,Closed,22:46:15,9644
+138,Arson,2022-03-27,West Edward,60,173,Anyone century suddenly nice writer.,Under Investigation,14:11:01,1201
+139,Robbery,2022-07-15,Martinezmouth,12,265,Per natural hold expert.,Under Investigation,02:09:52,3679
+140,Kidnapping,2022-11-19,Alvaradoberg,247,45,Challenge his right sometimes front firm board.,Closed,03:11:14,9456
+141,Robbery,2022-01-04,North Amyville,243,256,Operation money throw employee civil behavior.,Resolved,20:40:34,8661
+142,Homicide,2021-04-28,Alexanderchester,84,53,Buy use wish responsibility safe hope story.,Open,13:54:49,1616
+143,Kidnapping,2023-04-14,Archershire,227,299,Page almost bad hard six region find.,Under Investigation,03:32:13,3801
+144,Cyber Crime,2024-05-15,South Patrick,122,197,Language small white dinner get remain research.,Under Investigation,09:28:34,7004
+145,Cyber Crime,2020-09-19,Penningtonview,175,219,Beautiful main out.,Pending,03:15:30,7029
+146,Theft,2021-12-05,Andradeborough,40,85,Exist know claim medical edge fill shake.,Under Investigation,16:33:27,6976
+147,Burglary,2022-05-20,Stanleyborough,78,223,Firm contain them maybe beat establish Congress.,Resolved,08:14:48,8666
+148,Assault,2022-04-11,North Jamieside,24,46,Affect really same say car away.,Pending,02:19:14,9960
+149,Arson,2021-06-04,West Jacob,183,150,Then individual hope radio government local.,Closed,14:59:42,9083
+150,Drug Offense,2021-03-28,Hardychester,162,53,Explain single build understand.,Open,13:37:59,5364
+151,Drug Offense,2022-01-03,Port Theresa,250,182,Necessary entire measure option foreign arm.,Open,06:02:45,8162
+152,Theft,2025-04-19,Justinchester,148,90,Forward whole politics exactly.,Resolved,09:26:30,7873
+153,Drug Offense,2021-03-04,Emilyburgh,22,66,Cost back your say avoid feel man.,Open,00:54:41,2320
+154,Kidnapping,2022-01-20,South Nancyside,197,191,Hotel forward family share significant hold.,Open,15:23:00,5962
+155,Arson,2023-10-22,Oscartown,126,299,Recognize help film trouble with manage at view.,Resolved,18:13:47,1358
+156,Theft,2022-11-26,Joshuafort,55,20,Wall people them mission lose money.,Under Investigation,19:08:18,3898
+157,Homicide,2021-01-14,Sandovalbury,49,152,Firm draw her contain.,Under Investigation,09:58:40,4762
+158,Arson,2023-05-24,New Melinda,12,28,And Democrat friend.,Closed,04:33:56,9654
+159,Kidnapping,2022-09-15,Kristinbury,142,216,Over whether ok say color pick necessary.,Pending,17:45:16,4521
+160,Fraud,2020-07-10,Dustinstad,8,180,Professor hand born season plant he national.,Open,00:09:18,3146
+161,Homicide,2022-10-29,Bergfurt,284,74,Stock world determine PM large late.,Resolved,02:36:43,1933
+162,Robbery,2024-08-07,North Mariastad,180,142,Always ahead feeling. Identify friend expect.,Pending,09:56:24,3346
+163,Robbery,2022-10-11,New Gary,236,249,Million blue learn while.,Resolved,15:53:03,4239
+164,Burglary,2022-03-06,Lauramouth,247,191,Visit them trip others into. Nation book course.,Closed,18:16:23,5615
+165,Arson,2021-05-03,East Thomas,151,133,Firm million since card site cultural.,Resolved,09:59:08,5873
+166,Kidnapping,2023-12-18,New Nathantown,9,158,Carry member me eight.,Resolved,04:58:33,2425
+167,Burglary,2021-05-30,Cynthiaton,173,127,Decide case else same fast per actually rate.,Closed,16:48:11,7697
+168,Robbery,2022-06-23,Port Barbara,157,146,First voice floor.,Open,02:47:54,6699
+169,Theft,2024-03-12,Christopherland,221,72,Sea know individual table daughter.,Closed,09:29:28,8027
+170,Homicide,2020-07-02,Trantown,279,121,Foot east room. Woman world strong think.,Pending,17:46:32,4572
+171,Kidnapping,2022-03-12,Cherylton,26,135,Any wonder many wall tonight.,Open,19:38:53,2387
+172,Kidnapping,2022-10-25,East Madison,162,80,Practice he reduce firm stuff.,Closed,12:40:59,1575
+173,Theft,2022-08-26,Weaverstad,50,75,Rate choose up quality try whether cold.,Resolved,17:25:30,3364
+174,Theft,2024-03-08,North Kevinshire,275,236,Report drive east weight among major point high.,Open,15:06:21,9293
+175,Drug Offense,2020-06-28,New William,276,13,Body prepare strategy sense leave involve.,Pending,19:54:30,4094
+176,Cyber Crime,2020-10-20,South Karenland,270,125,Food remain executive matter.,Open,08:24:23,8402
+177,Homicide,2025-01-12,Briannaland,77,214,College stage base skin no stage.,Pending,07:07:07,8735
+178,Theft,2025-01-21,South Elizabeth,112,156,Have go fact former.,Under Investigation,09:11:03,2412
+179,Homicide,2023-05-24,Suttontown,185,113,Either good mouth. Social back painting.,Under Investigation,17:57:22,9480
+180,Theft,2024-09-19,Alvarezchester,299,170,Thus sea table apply our her.,Under Investigation,00:35:01,2856
+181,Robbery,2021-01-30,Amandaborough,137,291,Whose since college save.,Pending,10:03:45,5612
+182,Homicide,2024-06-05,North Lisa,118,147,Traditional avoid doctor sense lay experience.,Resolved,18:06:10,1455
+183,Robbery,2022-09-29,Port Shane,90,289,Wish try out business test.,Closed,02:05:32,4931
+184,Theft,2020-06-27,South Kathleenshire,175,199,Trial simply religious television control.,Under Investigation,07:03:41,4693
+185,Kidnapping,2025-01-15,Nixonberg,162,1,Forward hotel itself challenge.,Under Investigation,21:08:46,5148
+186,Burglary,2024-06-07,Newtontown,175,295,Fly light write year significant.,Open,20:22:03,7704
+187,Assault,2020-12-16,East Robert,34,38,Note win boy now. Player scene them exactly.,Resolved,23:33:59,8726
+188,Kidnapping,2024-07-18,East Larry,156,69,Society eat about interview. Him later social.,Closed,15:29:14,6267
+189,Theft,2023-01-17,New Andreahaven,269,263,Task whatever international power decision.,Closed,16:28:39,3830
+190,Homicide,2022-11-09,West Joanna,134,26,Agency present Republican money no.,Under Investigation,01:09:40,4626
+191,Arson,2021-07-22,Port Tonya,66,117,Walk agency seem.,Pending,15:26:40,7247
+192,Drug Offense,2020-11-17,South Kelly,86,29,Thing across write recently step career.,Open,08:14:40,1735
+193,Homicide,2020-07-28,South Lori,254,254,Send strategy born financial hard member teacher.,Under Investigation,14:21:12,7329
+194,Homicide,2023-11-06,Mccoyfort,213,8,Experience beyond issue.,Closed,22:57:19,2425
+195,Kidnapping,2022-12-23,East Danielle,213,270,Thank century open how foot sea in.,Pending,00:29:11,7841
+196,Cyber Crime,2023-01-13,New Steven,215,3,Entire provide section.,Pending,02:03:41,9718
+197,Homicide,2024-10-10,Robertsfort,142,232,Unit teach phone indeed beautiful food.,Open,10:23:01,8015
+198,Cyber Crime,2024-04-16,Isabellaland,144,8,Fight entire letter it suffer value they prevent.,Resolved,21:09:35,5328
+199,Assault,2024-11-13,Nicholsfort,33,70,Center stock shake training guy.,Open,05:23:32,8555
+200,Robbery,2021-11-21,Benjaminshire,147,144,Employee mind human value full myself.,Under Investigation,18:45:13,8913
+201,Fraud,2023-02-06,Ballfort,85,25,Factor simply but either conference example sit.,Resolved,19:50:05,9844
+202,Fraud,2025-04-09,South Daniel,175,51,Shoulder already turn art tax tough.,Open,04:01:31,4127
+203,Fraud,2021-01-02,East Sydneychester,187,76,Someone say wish next catch.,Under Investigation,11:50:19,7093
+204,Drug Offense,2024-08-21,Wrightbury,89,54,Where your law art benefit the every.,Resolved,17:49:16,4486
+205,Cyber Crime,2022-10-18,Anachester,21,19,Wish summer on poor.,Resolved,09:25:51,7947
+206,Fraud,2025-02-21,West Michelle,269,93,Similar party pay form future watch low.,Open,13:24:54,9346
+207,Burglary,2020-08-06,New Angela,131,219,Rock but forget and ago south statement.,Pending,18:26:02,7738
+208,Burglary,2024-11-30,Philipburgh,193,52,Outside off garden short theory little practice.,Under Investigation,12:23:57,5576
+209,Drug Offense,2024-12-18,Danielmouth,179,143,Such argue claim west moment.,Resolved,18:07:58,6325
+210,Drug Offense,2024-05-28,Robertsshire,263,81,Food quite share. Direction amount increase lose.,Open,16:14:14,5829
+211,Homicide,2021-08-05,West Alexandraport,260,134,Break against break affect college glass.,Closed,05:12:15,7382
+212,Burglary,2024-11-20,North Cherylmouth,188,190,National entire inside mind trial science music.,Closed,18:10:49,2001
+213,Drug Offense,2024-03-28,East Katrinaberg,130,274,Bed others edge southern decision.,Resolved,20:33:33,1328
+214,Theft,2024-10-21,Andersonmouth,157,237,Republican pretty school manager road.,Open,16:26:34,1509
+215,Homicide,2021-07-23,Port Lisa,295,76,Culture daughter next century.,Resolved,11:10:23,1871
+216,Burglary,2025-04-03,South Matthew,296,208,Lead piece state keep.,Open,13:45:49,3292
+217,Kidnapping,2021-05-23,Hayesfurt,238,48,Issue air explain street color.,Resolved,17:42:50,7278
+218,Burglary,2020-12-03,Rachaelhaven,50,125,Sport service dream.,Closed,00:06:31,4656
+219,Fraud,2025-02-17,Nicholeshire,129,188,Off speech spend apply.,Under Investigation,16:37:41,1551
+220,Kidnapping,2021-08-26,East Heidi,179,114,Lay simple college. Respond half herself.,Under Investigation,22:07:01,4673
+221,Burglary,2023-05-30,Mirandaton,215,1,Body education assume fast.,Resolved,20:28:20,9137
+222,Robbery,2023-12-04,New Rick,41,52,Act item throughout these pick situation.,Open,09:36:48,9809
+223,Drug Offense,2020-09-28,Lake Joseph,47,272,Hard go sing quite parent.,Open,15:04:40,5403
+224,Cyber Crime,2022-09-26,West Katherine,223,111,Animal magazine human near feeling.,Pending,06:50:18,8525
+225,Homicide,2021-07-28,Lyonsport,36,63,Scientist fish soldier white office describe.,Open,02:31:05,2112
+226,Burglary,2024-06-17,Griffinshire,62,240,Either condition price soldier listen myself.,Pending,12:07:52,8454
+227,Fraud,2025-03-26,North Brianland,277,257,Describe price appear stock great old.,Pending,09:40:06,9326
+228,Assault,2022-02-23,East Brandonton,227,163,Action rather between store find occur.,Pending,14:12:26,4759
+229,Theft,2024-11-25,West Carolbury,251,18,Order sign speech he true risk approach.,Under Investigation,16:54:58,5856
+230,Robbery,2023-12-21,Port Larrymouth,73,217,After side whatever way customer strategy people.,Pending,02:13:33,8540
+231,Burglary,2020-12-09,Christopherview,3,232,Live gun entire fire.,Pending,12:49:37,1387
+232,Robbery,2021-05-03,Craigside,19,114,He easy voice national major source environment.,Pending,13:32:53,1576
+233,Burglary,2023-10-24,Patrickstad,157,261,Suddenly age worry summer.,Closed,19:19:25,8742
+234,Burglary,2023-09-13,Robinsonborough,153,219,Themselves live send.,Open,00:29:05,9394
+235,Drug Offense,2020-07-13,Reyesborough,72,100,Cost most customer during another like.,Closed,12:57:51,7948
+236,Kidnapping,2023-05-05,New Rachel,123,223,Blood song low practice stay they magazine for.,Under Investigation,12:48:49,5418
+237,Drug Offense,2024-12-15,Lake Roberta,27,165,Enough improve region education summer with.,Open,03:37:36,6434
+238,Homicide,2023-08-25,New Christopher,25,14,Part poor west rule. Marriage return nature.,Under Investigation,00:11:00,9141
+239,Kidnapping,2025-04-25,West Ianview,205,258,Nearly song language agent each.,Under Investigation,06:09:44,8904
+240,Homicide,2023-05-11,Josephport,256,130,Wind meeting party physical them.,Open,04:40:19,9131
+241,Drug Offense,2024-06-15,New Robertport,42,44,Tv star story various machine suggest concern.,Under Investigation,22:23:44,6814
+242,Theft,2021-11-05,Lake Jeffrey,268,13,On suggest why share.,Pending,18:23:41,9370
+243,Kidnapping,2020-08-04,Hubbardchester,171,18,Education set worker so spring capital.,Closed,13:09:45,6827
+244,Theft,2022-11-03,Parsonsmouth,104,23,Heart believe network church.,Closed,17:10:03,1773
+245,Fraud,2025-01-18,Rachelside,75,202,Else give both amount job write but.,Closed,07:00:59,8671
+246,Drug Offense,2025-02-14,Hillbury,185,104,Threat become sea people six history.,Under Investigation,00:38:02,2005
+247,Theft,2021-11-23,North Roy,65,45,Admit activity itself within fund.,Pending,06:23:45,7451
+248,Homicide,2024-02-06,New Benjaminhaven,288,86,Space remember away language able.,Open,19:38:59,4934
+249,Robbery,2023-03-21,South Laurachester,274,155,Affect information check pay base brother leg.,Pending,16:44:00,8348
+250,Cyber Crime,2024-02-11,Taylortown,152,117,Up response half report into personal.,Resolved,11:20:16,3945
+251,Fraud,2024-10-27,Wandatown,230,240,Myself both note authority voice within.,Open,12:58:59,9554
+252,Homicide,2021-03-17,North Stevenside,37,42,Different kid base itself entire help recent.,Closed,07:27:04,2606
+253,Cyber Crime,2022-11-13,North Richardberg,156,120,Son conference authority social.,Closed,06:18:07,3386
+254,Arson,2023-02-21,Karenfurt,60,279,National wide ago every.,Closed,11:19:03,6297
+255,Assault,2021-06-10,Wongberg,292,229,Talk four box interest again trade whole.,Closed,01:33:00,6869
+256,Theft,2025-01-20,East Elizabethton,164,144,Space able student finally political.,Closed,12:41:04,3519
+257,Arson,2023-02-17,Lake Julie,117,235,Suffer history include study reduce find.,Closed,14:37:33,3963
+258,Theft,2024-07-01,East Toddhaven,130,16,Friend new rule realize offer decision.,Closed,03:11:02,6539
+259,Kidnapping,2021-09-22,Tracyburgh,47,190,Process mean increase chair marriage though.,Closed,06:42:01,2796
+260,Cyber Crime,2021-11-22,Andreastad,263,175,Eight peace between think including machine.,Resolved,14:55:03,8086
+261,Fraud,2024-06-17,Mendozafurt,62,170,Play particular financial nor.,Closed,10:29:49,3079
+262,Burglary,2020-05-12,Lisaport,56,49,Cold standard peace.,Open,20:27:03,2144
+263,Robbery,2023-02-25,East Victoria,277,74,Field Mrs series improve.,Under Investigation,12:19:00,2521
+264,Drug Offense,2020-11-19,East Walterchester,209,166,Pm black whole compare.,Under Investigation,14:00:31,1861
+265,Arson,2024-11-02,Torreston,282,278,Social item study necessary detail commercial.,Pending,17:28:42,4608
+266,Homicide,2023-07-09,Brianburgh,41,123,Social begin do even can large my season.,Pending,07:51:00,1315
+267,Arson,2022-05-01,Whitetown,210,145,Teach reduce call.,Closed,12:40:35,5362
+268,Cyber Crime,2023-09-23,Mcdanielside,29,11,Big reason eye home several baby.,Closed,02:15:57,7405
+269,Assault,2020-08-16,Thompsonchester,123,181,Share single huge senior skill capital.,Under Investigation,18:18:14,6848
+270,Theft,2020-12-06,South Angela,283,264,Seem star into partner what hard.,Resolved,06:58:44,1433
+271,Robbery,2023-06-01,Shawnview,212,256,Product future indicate more collection maintain.,Open,05:38:48,9972
+272,Kidnapping,2025-03-29,North Shannonhaven,130,106,Public but similar idea popular.,Under Investigation,07:02:53,6860
+273,Burglary,2023-10-22,Phillipston,252,59,Require walk dark answer perform close.,Pending,22:46:19,1048
+274,Kidnapping,2024-10-10,South Julie,71,115,Citizen simple role bad phone.,Resolved,22:07:24,2841
+275,Fraud,2024-06-12,Bishopstad,151,195,Anything employee smile far these once.,Pending,22:24:35,7476
+276,Cyber Crime,2023-02-20,South Alexischester,178,232,Rule relationship executive research contain.,Resolved,21:30:55,6888
+277,Kidnapping,2024-05-20,North Elizabeth,11,198,Long magazine short.,Open,10:19:20,7297
+278,Robbery,2022-08-27,Marthaland,183,105,Before cultural room when.,Resolved,06:20:17,9412
+279,Kidnapping,2024-07-01,Wallfort,50,152,Early its something store computer.,Open,21:53:00,5705
+280,Arson,2023-12-31,Melendezland,37,221,Analysis system fire admit man.,Under Investigation,05:42:15,6649
+281,Assault,2022-05-07,Bradleyfurt,293,112,Economy nor forget behind.,Closed,19:40:13,8454
+282,Homicide,2023-03-07,East Katie,45,52,Particular clear imagine international debate.,Pending,20:51:56,5593
+283,Kidnapping,2020-06-26,North Andrea,184,169,Usually no say probably.,Open,06:00:50,7833
+284,Fraud,2025-03-08,Brianstad,37,198,Peace budget see identify. Affect kid son old.,Under Investigation,03:50:30,9262
+285,Theft,2024-05-25,North Michelleberg,217,235,Generation short buy we.,Resolved,16:57:38,1397
+286,Theft,2020-11-24,Port Anthony,74,152,Drug cold some factor commercial name number.,Pending,16:46:34,1312
+287,Burglary,2023-12-06,Blakemouth,17,41,Only hand small system color.,Open,11:43:22,4850
+288,Robbery,2020-06-17,Michelleton,109,38,Series picture issue Mrs bad.,Open,14:12:32,2098
+289,Drug Offense,2021-06-12,South Briantown,55,23,Read family thought worker point not its.,Closed,01:36:43,5748
+290,Burglary,2020-12-27,Port Nicole,64,212,Law quickly not. Opportunity place indicate firm.,Closed,18:37:11,2194
+291,Arson,2021-03-25,Roweburgh,230,215,Character clearly like movement question.,Closed,04:25:14,8508
+292,Kidnapping,2024-12-14,South Staceytown,174,146,Condition education ten full create.,Open,10:26:12,3759
+293,Homicide,2023-05-11,East Cody,84,29,Because federal stuff next seven during wife.,Closed,16:46:45,3269
+294,Robbery,2023-03-30,Stokesfurt,35,201,Act price value team source develop bring move.,Closed,22:37:32,8912
+295,Burglary,2023-04-12,Lake Megan,104,235,Expert operation arm major since citizen surface.,Under Investigation,09:57:57,1162
+296,Arson,2023-08-08,East Michael,147,49,Dream own bed use.,Under Investigation,10:06:18,5076
+297,Fraud,2020-09-08,Washingtonstad,113,38,Now to nice so near.,Resolved,23:26:49,5307
+298,Fraud,2021-06-09,Mooreton,79,40,Between coach than should firm.,Pending,15:07:47,6321
+299,Robbery,2024-03-23,Dillonhaven,69,62,Want point method. Blood serious president.,Under Investigation,18:59:13,5072
+300,Theft,2021-10-02,Carrollport,70,240,Focus record son never.,Pending,15:58:57,9206
