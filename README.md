@@ -1,4 +1,5 @@
 🚔 Crime Record Management System (CRMS)
+
 A case study project built using MySQL to simulate real-world crime tracking and suspect profiling. The system manages and analyzes crime records through interlinked tables and advanced SQL operations.
 
 ✨ Features:
